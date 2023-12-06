@@ -1,0 +1,8 @@
+{
+    "/user-service/v1/user/static-data": "/static-data",
+    "/user-service/v1/company/search?q=palo": "/company-search",
+    "/user-service/v1/user/postal-code/123456": "/postal-code",
+    "/user-service/v1/user/postal-code/465419": "/postal-code1",
+    "/user-service/v1/user/postal-code/189675": "/postal-code2",
+    "/user-service/v1/user/postal-code/018956": "/postal-code3"
+}
